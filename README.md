@@ -4,6 +4,8 @@ This repository demonstrates that Chrome will download huge favicon files to the
 
 (no spinner)
 
+As people have pointed Firefox [does this too](http://i.imgur.com/3zkPKD7.png).
+
 This is what it looks like before crashing on my computer (currently testing on travel laptop with 4gb ram):
 
 ![](http://i.imgur.com/J16lwjF.png)
