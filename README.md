@@ -6,6 +6,8 @@ This repository demonstrates that Chrome will download huge favicon files to the
 
 As people have pointed Firefox [does this too](http://i.imgur.com/3zkPKD7.png). Safari is also affected and will make the computer unresponsive and then crash (on my OSX 10.10).
 
+[Chrome bug 500639](https://code.google.com/p/chromium/issues/detail?id=500639) [Firefox bug 1174811](https://bugzilla.mozilla.org/show_bug.cgi?id=1174811)
+
 This is what it looks like before crashing on my computer (currently testing on travel laptop with 4gb ram):
 
 ![](http://i.imgur.com/J16lwjF.png)
