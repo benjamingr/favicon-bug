@@ -4,7 +4,7 @@ This repository demonstrates that Chrome will download huge favicon files to the
 
 (no spinner)
 
-As people have pointed Firefox [does this too](http://i.imgur.com/3zkPKD7.png).
+As people have pointed Firefox [does this too](http://i.imgur.com/3zkPKD7.png). Safari is also affected and will make the computer unresponsive and then crash (on my OSX 10.10).
 
 This is what it looks like before crashing on my computer (currently testing on travel laptop with 4gb ram):
 
