@@ -17,6 +17,6 @@ Inspired by a tweet by https://twitter.com/a_de_pasquale https://twitter.com/a_d
 
  1. Install [io.js](http://www.iojs.org) (NodeJS works too)
  2. Run: `node exploit.js`
- 3. Test your browser by visiting http://localhost:3000 
+ 3. Test your browser by visiting http://localhost:3000  (or if you have `process.env.PORT` set then that port)
             
     
