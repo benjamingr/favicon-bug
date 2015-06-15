@@ -13,10 +13,10 @@ This is what it looks like before crashing on my computer (currently testing on 
 
 Inspired by a tweet by https://twitter.com/a_de_pasquale https://twitter.com/a_de_pasquale/status/608997818913665024
 
-###Running it
+### Running it
 
-Install [io.js](http://www.iojs.org) (NodeJS works too)
-Run:
-    node exploit.js
-    
+ 1. Install [io.js](http://www.iojs.org) (NodeJS works too)
+ 2. Run: `node exploit.js`
+ 3. Test your browser by visiting http://localhost:3000 
+            
     
