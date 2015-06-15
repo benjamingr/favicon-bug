@@ -9,7 +9,7 @@ This is what it looks like before crashing on my computer (currently testing on 
 ![](http://i.imgur.com/J16lwjF.png)
 
 
-Inspired by a tweet by https://twitter.com/a_de_pasquale
+Inspired by a tweet by https://twitter.com/a_de_pasquale https://twitter.com/a_de_pasquale/status/608997818913665024
 
 ###Running it
 
