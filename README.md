@@ -1,0 +1,2 @@
+# favicon-bug
+Favicon bug
