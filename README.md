@@ -1,6 +1,6 @@
 # favicon-bug
 
-This repository demonstrates that Chrome will download huge favicon files to the point that they crash Chrome and bring the computer to a halt all in the background with no indication to the user that any form of download or networking is happening.
+This repository demonstrates that Chrome will download huge favicon files to the point that they crash Chrome and bring the computer to a halt - all in the background with no indication to the user that any form of download or networking is happening.
 
 (no spinner)
 
