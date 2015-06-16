@@ -4,7 +4,7 @@ This repository demonstrates that browsers will download huge favicon and touch-
 
 (no spinner)
 
-I originally tested this with Chrome. People have pointed [Firefox](http://i.imgur.com/3zkPKD7.png), [IE](https://github.com/benjamingr/favicon-bug/issues/5) and [Safari](https://i.imgur.com/B2LeRy4.png) do this too.
+I originally tested this with Chrome. People have pointed [Firefox](http://i.imgur.com/3zkPKD7.png) and [Safari](https://i.imgur.com/B2LeRy4.png) do this too, [IE](https://github.com/benjamingr/favicon-bug/issues/5)  does not appear to be affected.
 
 [Chrome bug 500639](https://code.google.com/p/chromium/issues/detail?id=500639) [Firefox bug 1174811](https://bugzilla.mozilla.org/show_bug.cgi?id=1174811)
 
