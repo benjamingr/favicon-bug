@@ -23,4 +23,4 @@ Inspired by a tweet by https://twitter.com/a_de_pasquale https://twitter.com/a_d
 
  1. Install [io.js](http://www.iojs.org) (NodeJS works too)
  2. Run: `node exploit-ios.js`
- 3. Test on iOS by visiting http://localhost:3000 and tapping on the share icon (or if you have `process.env.PORT` set then that port)
+ 3. Test on iOS by visiting http://ip-of-computer:3000 and tapping on the share icon (or if you have `process.env.PORT` set then that port)
