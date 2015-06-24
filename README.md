@@ -1,4 +1,4 @@
-# favicon-bug
+# Favicon Download Bug
 
 This repository demonstrates that browsers will download huge favicon and touch-icon files to the point that they crash and/or bring the computer to a halt - all in the background with no indication to the user that any form of download or networking is happening.
 
